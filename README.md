@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wilbur lepcha
-- 👀 I’m a front end web developer & flutter developer
+- 👀 I’m a full stack web developer 
 - 📚 Currently learning Data Science
 - 📫 reach me @email wmlepcha15@gmail.com
 
